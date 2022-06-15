@@ -1,0 +1,8 @@
+prefix=/home/pinton/Documents/ros_labs/student1839m_ws/install
+
+Name: lab1_turtlesim
+Description: Description of lab1_turtlesim
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

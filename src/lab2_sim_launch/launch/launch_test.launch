@@ -1,0 +1,10 @@
+<launch>
+
+    <node pkg="turtlesim" type="turtlesim_node" name="turtlesim_node" />
+
+    <node pkg="lab2_sim_launch" type="lab2_sim_launch_node" name="lab2_sim_launch_node" output="screen" />
+
+    <rosparam command="load" file="$(find lab2_sim_launch)/launch/turtle.yaml" />
+
+
+</launch>

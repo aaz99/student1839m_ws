@@ -1,0 +1,8 @@
+prefix=/home/pinton/Documents/ros_labs/student1839m_ws/devel
+
+Name: lab_4_2_turtlepose_vizualization
+Description: Description of lab_4_2_turtlepose_vizualization
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

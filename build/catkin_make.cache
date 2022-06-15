@@ -1,0 +1,2 @@
+lab1_turtlesim:lab2_sim_launch:lab3_bagfile:lab4_2_turtlepose_vizualization:lab4_geometry:lab5_1_gridcells:lab6_2_go_turtle:lab6_follow_me
+-G CodeBlocks - Unix Makefiles -DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/pinton/Documents/ros_labs/student1839m_ws/devel -DCMAKE_INSTALL_PREFIX=/home/pinton/Documents/ros_labs/student1839m_ws/install

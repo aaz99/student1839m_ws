@@ -1,0 +1,8 @@
+prefix=/home/pinton/Documents/ros_labs/student1839m_ws/install
+
+Name: lab5_navigation
+Description: Description of lab5_navigation
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
